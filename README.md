@@ -10,5 +10,6 @@ and add a collection "Empleado"
 3 -) set "firebaseConfig" variable in enviroment.ts file angular 9 
 
 
-
+# sudo npm install firebase@latest
+# sudo npm i @angular/fire --save
 # ng g s service/crud
